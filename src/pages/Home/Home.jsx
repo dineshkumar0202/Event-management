@@ -16,7 +16,7 @@ const Home = () => {
       <section className={styles.hero}>
         <div className={styles.heroContent}>
           <h1 className={styles.heroTitle}>
-            Discover Amazing Events
+             Amazing Events Managemant
           </h1>
           <p className={styles.heroSubtitle}>
             Join thousands of people attending incredible events. Create, discover, and participate in events that matter to you.

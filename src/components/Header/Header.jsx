@@ -37,7 +37,7 @@ const Header = () => {
               </linearGradient>
             </defs>
           </svg>
-          EventHub
+          Eventify
         </Link>
 
         <nav className={`${styles.nav} ${isMenuOpen ? styles.navOpen : ''}`}>
